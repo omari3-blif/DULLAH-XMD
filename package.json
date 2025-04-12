@@ -6,10 +6,7 @@
   "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "s": "node index.js", 
-    "bwm": "pm2 start index.js --attach --max-memory-restart 512M",
-    "c": "tsc"
+    "start": "node set.js",
   },
   "keywords": [
     "bot",
