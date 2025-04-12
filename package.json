@@ -2,11 +2,11 @@
   "name": "dullah-xmd",
   "version": "2.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "set.js",
   "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
+    "start": "node set.js",
     "s": "node index.js", 
     "bwm": "pm2 start index.js --attach --max-memory-restart 512M",
     "c": "tsc"
