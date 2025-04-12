@@ -22,10 +22,9 @@
   "author": "abdallahsalimjuma",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/keyed-db": "^0.2.4"
-  }   "est st@dddullaindthelyrics": "^2.0.5",
-}
-}"@green-code/music-track-data": "^2.0.3",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "est st@dddullaindthelyrics": "^2.0.5",
+    "@green-code/music-track-data": "^2.0.3",
     "@shineiichijo/marika": "^2.0.6",
     "@vitalets/google-translate-api": "^9.2.0",
     "@xct007/tiktok-scraper": "^1.0.2",  
